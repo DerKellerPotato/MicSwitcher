@@ -1,3 +1,5 @@
+Das ist mein erstes C# Projekt mit viel KI Inhalt :-/ Ich lerne noch, bitte habt Nachsicht.
+
 # MicSwitcher 🎙️
 
 MicSwitcher ist eine kleine Windows-System-Tray-Anwendung, die dein Standard-Mikrofon automatisch umschaltet, basierend darauf, ob dein Headset-Mikrofon stumm geschaltet ist oder nicht.
@@ -34,7 +36,7 @@ Viele Kommunikations-Apps (wie Discord, Teams, OBS oder die Xbox Gamebar) "merke
 
 ## ⚙️ Verwendung (Für Anwender)
 
-1.  Lade die `MicSwitcher.exe` aus dem [Releases-Tab](https://github.com/DEIN-USERNAME/MicSwitcher/releases) herunter. *(Du musst zuerst eine Release erstellen, damit dieser Link funktioniert)*
+1.  Lade den SETUP Ordner herunter und starte die Setup.exe.
 2.  Starte die `MicSwitcher.exe`. Beim ersten Start öffnet sich automatisch das Einstellungsfenster.
 3.  Wähle im Dropdown-Menü dein **Stand-Mikrofon** aus (das Gerät, das aktiv sein soll, wenn das Headset stumm ist).
 4.  Wähle in der Checkbox-Liste das **Headset-Mikrofon** (oder mehrere), das die Umschaltung auslösen soll.
@@ -46,7 +48,7 @@ Viele Kommunikations-Apps (wie Discord, Teams, OBS oder die Xbox Gamebar) "merke
 
 Dieses Projekt wurde mit Visual Studio 2022 und .NET 8 erstellt.
 
-1.  Klone dieses Repository: `git clone https://github.com/DEIN-USERNAME/MicSwitcher.git`
+1.  Klone dieses Repository: `git clone https://github.com/DerKellerPotato/MicSwitcher.git`
 2.  Öffne die `MicSwitcher.sln`-Datei in Visual Studio 2022.
 3.  Stelle sicher, dass die ".NET-Desktopentwicklung"-Arbeitslast in Visual Studio installiert ist.
 4.  Klicke mit der rechten Maustaste auf das Projekt und wähle "Manage NuGet Packages...".
